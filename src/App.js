@@ -1,6 +1,10 @@
+import History from './components/History.js'
+
 function App() {
+
   return (
-    <div className="App">
+    <div className="layout">
+      <History></History>
     </div>
   );
 }
